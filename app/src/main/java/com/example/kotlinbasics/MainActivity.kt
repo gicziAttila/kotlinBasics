@@ -43,5 +43,5 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, WeatherActivity::class.java)
             startActivity(intent)
         }
-    }
+    } //ON CREATE
 }
